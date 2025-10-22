@@ -1,4 +1,4 @@
-# 🧠 SQL-Based Data Cleaning & Reporting (Portfolio Project)
+# 🧠 Sales Data Cleaning and Reporting Automation
 
 ## 📋 Project Overview
 This project demonstrates SQL-based data cleaning, transformation, and automated reporting for a retail sales dataset using PostgreSQL.
