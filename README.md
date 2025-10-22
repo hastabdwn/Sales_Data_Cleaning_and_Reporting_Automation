@@ -1,8 +1,9 @@
 # 🧠 SQL-Based Data Cleaning & Reporting (Portfolio Project)
 
 ## 📋 Project Overview
-This project demonstrates **SQL-based data modeling, data cleaning, and reporting** using **PostgreSQL**.  
-It simulates a retail sales data warehouse designed using a **Star Schema** and focuses on data wrangling, business reporting, and analytical SQL techniques.
+This project demonstrates SQL-based data cleaning, transformation, and automated reporting for a retail sales dataset using PostgreSQL.
+It simulates a real-world sales reporting pipeline designed with a Star Schema to improve data consistency, enable efficient business reporting, and automate insight generation.
+The project showcases strong SQL skills, including data modeling, window functions, CTEs, and aggregation techniques for analytical reporting.
 
 ---
 
